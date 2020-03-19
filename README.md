@@ -164,7 +164,7 @@ def count_single_file(file_path):
 
   在本项目中，笔者构建了对同一目录下的同类文件进行统计的功能，以此我们可以进行批量的回归测试。测试结果如下：
 
-  ![](E:\depot\WordCount\figure\re_result.png)
+  ![](https://raw.githubusercontent.com/foolishkylin/WordCount/master/figure/re_result.png)
 
 ```tex
 统计结果：
@@ -206,7 +206,7 @@ def count_single_file(file_path):
 
   类似地，笔者使用了多文件统计的功能，对一系列c++文件（来源于笔者之前写过的代码）进行统计。结果如下
 
-  ![s_result](E:\depot\WordCount\figure\s_result.png)
+  ![s_result](https://raw.githubusercontent.com/foolishkylin/WordCount/master/figure/s_result.png)
 
 ```tex
 统计结果：
@@ -297,10 +297,10 @@ def count_single_file(file_path):
 
 #### 程序使用说明
 
-![](E:\depot\WordCount\figure\head.png)
+![](https://raw.githubusercontent.com/foolishkylin/WordCount/master/figure/head.png)
 
 对于单文件统计，先选择统计格式，在选择文件。选择好后即进行统计。
 
-![](E:\depot\WordCount\figure\page2.png)
+![](https://raw.githubusercontent.com/foolishkylin/WordCount/master/figure/page2.png)
 
 对于多文件统计，同样选择统计格式。然后选择文件夹路径，选择好后即开始统计文件。
