@@ -75,7 +75,7 @@
 
 #### 设计思路
 
-![](C:\Users\Shinelon\Pictures\forBlog\wc\WC.png)
+![](figure\WC.png)
 
 ​		具体首先将分成两层，逻辑层和GUI层。逻辑层负责实现项目的核心逻辑，GUI层负责实现项目的GUI界面。
 
